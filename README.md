@@ -1,15 +1,18 @@
 This tool encrypts speech for conversations
 
-made by Sx
+made by (SX)
 
 
 how to use
 
-python3 speech_encryptor.py -h
+(to open menu) :--
 
-      (to open meun)
+    python3 speech_encryptor.py -h
 
+(Encryption) :--
 
-(Encryption) :-- python3 speech_encryptor.py -e (test)
+    python3 speech_encryptor.py -e (test)
+ 
+(To decrypt) :-- 
 
-(To decrypt) :-- python3 speech_encryptor.py -d (test)
+    python3 speech_encryptor.py -d (test)
