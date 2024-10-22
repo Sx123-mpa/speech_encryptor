@@ -1,10 +1,10 @@
 This tool encrypts speech for conversations
+made by (SX)
 
  to install 
 
      git clone https://github.com/Sx123-mpa/speech_encryptor.git
-  
-made by (SX)
+     
  cd file
 
      cd speech_encryptor
