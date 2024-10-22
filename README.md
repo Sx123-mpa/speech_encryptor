@@ -1,7 +1,9 @@
 This tool encrypts speech for conversations
 
 made by (SX)
+ cd file
 
+     cd speech_encryptor
 
 how to use
 
